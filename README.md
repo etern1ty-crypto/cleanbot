@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2ECC71,100:1a1b27&height=200&section=header&text=CleanBot&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Telegram%20Bot%20%2B%20Mini%20App%20%E2%80%94%20Moderation%20%26%20Automation&descSize=16&descColor=ABEBC6&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2ECC71,100:1a1b27&height=200&section=header&text=CleanBot&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Telegram%20Bot%20%20%20Mini%20App%20%20%20Moderation&descSize=16&descColor=ABEBC6&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -95,6 +95,6 @@ python tma_server.py
 
 MIT — see [LICENSE](LICENSE) for details.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2ECC71,100:1a1b27&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2ECC71,100:1a1b27&height=80&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
